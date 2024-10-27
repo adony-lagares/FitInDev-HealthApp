@@ -1,6 +1,6 @@
-# FitInDevApi
+# FitInDev-HealthApp
 
-🚀 **FitInDevApi** é uma API desenvolvida por Ádony Lagares para ajudar profissionais de tecnologia, especialmente desenvolvedores, a manterem hábitos de vida saudáveis. Este projeto visa utilizar **Inteligência Artificial** para recomendações de treinos, dietas e hábitos, focando em melhorar a qualidade de vida de pessoas que passam longas horas em ambientes sedentários.
+🚀 **FitInDev Health App** é um software desenvolvido por Ádony Lagares para ajudar profissionais de tecnologia, especialmente desenvolvedores, a manterem hábitos de vida saudáveis. Este projeto visa utilizar **Inteligência Artificial** para recomendações de treinos, dietas e hábitos, focando em melhorar a qualidade de vida de pessoas que passam longas horas em ambientes sedentários.
 
 ---
 

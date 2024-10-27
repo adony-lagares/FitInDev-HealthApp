@@ -1,0 +1,6 @@
+@FitInDevApi_HostAddress = http://localhost:5063
+
+GET {{FitInDevApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
